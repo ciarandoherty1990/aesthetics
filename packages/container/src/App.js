@@ -11,7 +11,7 @@ export default () => {
         <StylesProvider generateClassName={generateClassName}>
             <BrowserRouter>
                 <div>
-                    <p>Dr. Laura Aesthetics</p>
+                    <p>Dr. Laura Aestheticss</p>
                 </div>
             </BrowserRouter>
         </StylesProvider>
